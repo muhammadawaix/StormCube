@@ -2,7 +2,7 @@
 
 Storm Cube is a fast-paced hyper-casual arcade game where you control a cube navigating through obstacles while collecting gems. The goal is to survive as long as possible, climb levels, and beat the timer!
 
-🎮 ##Play Now
+🎮 # Play Now
 
 👉 [Play Storm Cube on Itch.io](https://awaixultan.itch.io/stormcube)
 
