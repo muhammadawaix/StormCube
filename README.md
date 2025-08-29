@@ -52,6 +52,14 @@ Online leaderboard integration.
 
 Sound effects and background music.
 
+<h2>👨‍💻 Developer</h2>
+
+Name: Muhammad Awais
+
+Email: [muhammadawaixn@gmail.com](muhammadawaixn@gmail.com)
+
+LinkedIn: [Muhammad Awais Linkedin Profile](https://www.linkedin.com/in/awaix/)
+
 <h2>📜 License</h2>
 
 This project is licensed under the MIT License – feel free to use, modify, and share.
