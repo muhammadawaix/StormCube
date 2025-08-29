@@ -4,7 +4,7 @@ Storm Cube is a fast-paced hyper-casual arcade game where you control a cube nav
 
 <h2>🎮 Play Now</h2>
 
-👉 [Play Storm Cube on Itch.io](https://awaixultan.itch.io/stormcube)
+👉 [Play Storm Cube on Itch.io](https://muhammadawaix.itch.io/stormcube)
 
 <h2>🕹 Gameplay</h2>
 
